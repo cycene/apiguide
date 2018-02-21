@@ -16,4 +16,4 @@ In both these cases, the agency back-end grants assessment system receives the d
 
 .. recommended::
 
-   User interfaces (reatail) should consume the corresponding (wholesale) API.
+   User interfaces (retail) should consume the corresponding (wholesale) API.
